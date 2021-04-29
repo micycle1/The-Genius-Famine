@@ -1,8 +1,6 @@
 # Introduction {.unnumbered}
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
-
-This book is about genius: what it is, what it does, where it comes from.[1]
+This book is about genius: what it is, what it does, where it comes from.[@1]
 
 And about geniuses: especially why there used to be so many and now there are so few; what was the effect of an era of geniuses, and what will be the consequences of our current Genius Famine.
 
