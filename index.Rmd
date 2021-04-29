@@ -1,0 +1,31 @@
+--- 
+title: "The Genius Famine"
+subtitle: "Why we need geniuses, Why they’re dying out, and Why we must rescue them"
+author: "Edward Dutton and Bruce G Charlton"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Preface {-}
+
+## About This Book {-}
+
+We live in a society where, for whatever reason, genius tends to be unacknowledged, denied, ignored or even (usually for 'politically correct' reasons) actively persecuted. For the past four hundred years, geniuses have been common to all the major humanities and sciences, art, literature, medicine, law, politics, the military and religion - yet today they have almost disappeared.
+
+A genius combines extremely high intelligence with an unworldly, intuitive personality. Geniuses will seldom fit into normal society; they will seldom want to. Nor should they, since it is their unusual and socially-difficult nature which drives geniuses to come up with original ideas, make breakthrough discoveries or solve unyielding problems by intuitive insight.
+
+But modern society has been hit by a genius famine. There are ever fewer geniuses and modern society has become actively hostile to those we still have. The Genius Famine explores the nature of genius, why the genius famine has happened, how it threatens civilization and what we can and should do to overcome it.
+
+## About the Authors {-}
+
+Edward Dutton is Adjunct Professor of the Anthropology of Religion at Oulu University in Finland and an independent scholar. He read Theology at Durham University and researched a PhD in Religious Studies at Aberdeen University, focusing on anthropology. This was published as Meeting Jesus at University (Ashgate, 2008). Among his other books are a study of Finnish culture, The Finnuit (Akademiai Kiado, 2009), Culture Shock and Multiculturalism (Cambridge Scholars, 2012) and Religion and Intelligence (Ulster Institute for Social Research, 2014). His most recent book (with Richard Lynn) is Race and Sport (Ulster Institute for Social Research, 2015). His research has been reported in, and he has also written for, various national newspapers and magazines. He can be found online at www.edwarddutton.wordpress.com
+
+Bruce G Charlton is Visiting Professor of Theoretical Medicine at the University of Buckingham and Reader in Evolutionary Psychiatry at Newcastle University. Bruce has an unusually broad intellectual experience: he graduated with honours from the Newcastle Medical School, took a doctorate at the Medical Research Council Neuroendocrinology group, and did postgraduate training in psychiatry and public health. He has held university lectureships in physiology, anatomy, epidemiology, and psychology; and has a Masters degree in English Literature from Durham. From 2003-10 Bruce solo-edited Medical Hypotheses; a monthly international journal that published frequently speculative, sometimes amusing, and often controversial ideas and theories across the whole of medicine and beyond. He has published considerably more than two hundred scientific papers and academic essays in these fields, and contributed journalism to UK national broadsheets and weekly magazines. Bruce is author of Thought Prison: The Fundamental Nature of Political Correctness (2011); Not Even Trying: The Corruption of Real Science (2012) and Addicted to Distraction: Psychological Consequences of the Modern Mass Media (2014) all published by University of Buckingham Press. Intelligence, Personality and Genius is Bruce’s blog, where many of the ideas for this book were developed: iqpersonalitygenius.blogspot.co.uk
+
+## Acknowledgements {-}
+
+Both authors acknowledge the influence of Dr. Michael A. Woodley, both in general terms and also in relation to several specific aspects of the argument of this book; although we take full responsibility for the use we have made of these ideas. In addition, Edward Dutton would like to thank Dr. Dimitri van der Linden for assorted stimulating conversations on the topics in this book. He would also like to thank his wife, Mimmi, and children Martha and Henry. Bruce Charlton wishes to acknowledge the essential support and encouragement of his wife, Gill; and his children, Billy and Nancy.

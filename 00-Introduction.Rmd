@@ -1,0 +1,22 @@
+# Introduction {.unnumbered}
+
+You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+
+You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+
+This book is about genius: what it is, what it does, where it comes from.[1]
+And about geniuses: especially why there used to be so many and now there are so few; what was the effect of an era of geniuses, and what will be the consequences of our current Genius Famine.
+
+This book describes the genius as an Endogenous personality; that is, a person of high intelligence combined with a personality driven from within, an ‘inner’ –orientated personality: that is, a dominated by the Creative Triad of (1) Innate high ability, (2) Inner motivation and (3) Intuitive thinking.
+
+When high intelligence and this type of personality are confluent, a potential genius is the result. But to fulfil this potential the Endogenous personality must find and accept his own Destiny, and must undergo the trials and tribulations of a Quest before he is likely to be rewarded by an Illumination: a breakthrough.
+
+Even then, the breakthrough must be noticed, understood, accepted, implemented by society at large; and we describe how past societies were much better at recognizing and making a place for the potential genius. Because the problem is that the Endogenous personality is usually an awkward and asocial character at best; and often an actively unpleasant person and a disruptive influence.
+
+Geniuses are altruistic, in the sense that their work is primarily for the good of the group; and not for the usual social rewards such as status, money, sex, and popularity.
+
+Therefore many geniuses need to be sustained in a long-term way; and their work demands careful attention and evaluation.
+
+We argue that modern societies, by means both indirect and direct, have become hostile to genius and indifferent to the work of those relatively few remaining geniuses.
+
+However, because the work of a genius is necessary and irreplaceable, we argue for a change of attitude. Modern society needs geniuses for its own survival in the face of unfamiliar, often unprecedented, threats. Therefore, we must in future do a better job of recognizing, sustaining and accepting guidance from as many geniuses of the highest quality that can be found.
