@@ -2,12 +2,13 @@
 
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
-
 This book is about genius: what it is, what it does, where it comes from.[1]
+
 And about geniuses: especially why there used to be so many and now there are so few; what was the effect of an era of geniuses, and what will be the consequences of our current Genius Famine.
 
-This book describes the genius as an Endogenous personality; that is, a person of high intelligence combined with a personality driven from within, an ‘inner’ –orientated personality: that is, a dominated by the Creative Triad of (1) Innate high ability, (2) Inner motivation and (3) Intuitive thinking.
+******
+
+This book describes the genius as an **Endogenous** personality; that is, a person of high intelligence combined with a personality driven from within, an ‘inner’ –orientated personality: that is, a dominated by the Creative Triad of (1) Innate high ability, (2) Inner motivation and (3) Intuitive thinking.
 
 When high intelligence and this type of personality are confluent, a potential genius is the result. But to fulfil this potential the Endogenous personality must find and accept his own Destiny, and must undergo the trials and tribulations of a Quest before he is likely to be rewarded by an Illumination: a breakthrough.
 

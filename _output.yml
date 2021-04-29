@@ -5,6 +5,8 @@ bookdown::gitbook:
       before: |
         <li><a href="./">The Genius Famine</a></li>
     download: ["pdf", "epub"]
+
+
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

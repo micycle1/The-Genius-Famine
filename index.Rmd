@@ -1,13 +1,17 @@
 --- 
 title: "The Genius Famine"
 subtitle: "Why we need geniuses, Why they’re dying out, and Why we must rescue them"
-author: "Edward Dutton and Bruce G Charlton"
+author: 
+  - Edward Dutton
+  - Bruce G Charlton
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-biblio-style: apalike
+csl: ieee.csl
 link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+github-repo: micycle1/The-Genius-Famine
+description: "This book is about genius: what it is, what it does, where it comes from."
+url: https://micycle1.github.io/The-Genius-Famine/
 ---
 
 # Preface {-}

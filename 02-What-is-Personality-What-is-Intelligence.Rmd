@@ -29,7 +29,7 @@ Although we will be suggesting revisions and improvements to the scheme, many ps
 
 These five personality traits are (except for Openness--Intellect) regarded as independent of IQ scores (at least within normal IQ ranges); and our placing on them predicts how we behave.
 
-For example, high Conscientiousness as a child predicts greater success in education and employment; high Neuroticism predicts problems with mood swings, anxiety and depression. High Openness-Intellect will tend to result in being a novelty-loving, impractical, perhaps artistic, academic or spiritual dreamer. A moderately high score, however, is a predictor of artistic success – or at least, on some measures of artistic success that focus on the production of novelty (although, we will argue, High Openness does not predict the genius type of creativity).[2]
+For example, high Conscientiousness as a child predicts greater success in education and employment; high Neuroticism predicts problems with mood swings, anxiety and depression. High Openness-Intellect will tend to result in being a novelty-loving, impractical, perhaps artistic, academic or spiritual dreamer. A moderately high score, however, is a predictor of artistic success – or at least, on some measures of artistic success that focus on the production of novelty (although, we will argue, High Openness does not predict the genius type of creativity).[@2]
 
 The Big Five were developed from the Big Three traits defined by psychologist Hans J. Eysenck (1916-1997), who arrived in England from Germany in the 1930s and became the most dominant personality in British academic psychology. The Big Three are Extraversion, Neuroticism and Psychoticism.[3] In effect, the Big Five dimensions of Conscientiousness and Agree-ableness are the opposites of various aspects of Eysenck’s Psychoticism; and Openness takes some aspects of Psychoticism and blends them with behaviours characteristic of modern intellectuals (as may be inferred from this description, we regard the Openness trait as a concept of dubious biological validity).
 
@@ -52,7 +52,7 @@ Another example is that girls who have grown up in sexually-unstable situations 
 
 ## Intelligence
 
-So much for personality, what then is intelligence?
+_So much for personality, what then is intelligence?_
 
 ‘Intelligence’ can be seen as the ability to think abstractly and to learn quickly – this leads to an ability to solve problems quickly, but only when those problems have previously been encountered. In problem solving, intelligence provides fast processing and a larger knowledge base, but intelligence is _not_ about being original or creative.
 
