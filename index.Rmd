@@ -7,7 +7,7 @@ author:
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-biblio-style: abbrv
+csl: ieee.csl
 link-citations: yes
 github-repo: micycle1/The-Genius-Famine
 description: "This book is about genius: what it is, what it does, where it comes from."
