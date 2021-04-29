@@ -15,8 +15,12 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
-      - name: Render Book
+      - name: Render Book as HTML
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
+      - name: Render Book as PDF
+        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book")'
+      - name: Render Book as EPUB
+        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book")'
       - uses: actions/upload-artifact@v1
         with:
           name: _book
